@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'cpf_utils'
+gem 'faker'
+gem 'documentos_br'
+gem "tty-progressbar"
+gem 'lerolero_generator'
+gem "tty-spinner"
+
+
+
